@@ -36,4 +36,20 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [3936-split-array-by-prime-indices](https://github.com/cosmoLegend/Leetcoding/tree/master/3936-split-array-by-prime-indices) |
+## Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/cosmoLegend/Leetcoding/tree/master/0937-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/cosmoLegend/Leetcoding/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/cosmoLegend/Leetcoding/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/cosmoLegend/Leetcoding/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->

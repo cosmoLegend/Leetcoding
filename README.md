@@ -6,6 +6,7 @@ Problems that I solve on leetcode !!
 ## Array
 |  |
 | ------- |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/cosmoLegend/Leetcoding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3886-count-number-of-trapezoids-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3886-count-number-of-trapezoids-i) |
 ## Hash Table
 |  |
@@ -19,4 +20,8 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [3886-count-number-of-trapezoids-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3886-count-number-of-trapezoids-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/cosmoLegend/Leetcoding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->

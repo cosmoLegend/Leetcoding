@@ -9,6 +9,7 @@ Problems that I solve on leetcode !!
 | [0934-bitwise-ors-of-subarrays](https://github.com/cosmoLegend/Leetcoding/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/cosmoLegend/Leetcoding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [3886-count-number-of-trapezoids-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3886-count-number-of-trapezoids-i) |
+| [3936-split-array-by-prime-indices](https://github.com/cosmoLegend/Leetcoding/tree/master/3936-split-array-by-prime-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [3886-count-number-of-trapezoids-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3886-count-number-of-trapezoids-i) |
+| [3936-split-array-by-prime-indices](https://github.com/cosmoLegend/Leetcoding/tree/master/3936-split-array-by-prime-indices) |
 ## Geometry
 |  |
 | ------- |
@@ -30,4 +32,8 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cosmoLegend/Leetcoding/tree/master/0934-bitwise-ors-of-subarrays) |
+## Number Theory
+|  |
+| ------- |
+| [3936-split-array-by-prime-indices](https://github.com/cosmoLegend/Leetcoding/tree/master/3936-split-array-by-prime-indices) |
 <!---LeetCode Topics End-->

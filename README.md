@@ -10,6 +10,7 @@ Problems that I solve on leetcode !!
 | [0119-pascals-triangle-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0119-pascals-triangle-ii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cosmoLegend/Leetcoding/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/cosmoLegend/Leetcoding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/cosmoLegend/Leetcoding/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3886-count-number-of-trapezoids-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3886-count-number-of-trapezoids-i) |
 | [3936-split-array-by-prime-indices](https://github.com/cosmoLegend/Leetcoding/tree/master/3936-split-array-by-prime-indices) |
 ## Hash Table
@@ -19,6 +20,7 @@ Problems that I solve on leetcode !!
 ## Math
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/cosmoLegend/Leetcoding/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3886-count-number-of-trapezoids-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3886-count-number-of-trapezoids-i) |
 | [3936-split-array-by-prime-indices](https://github.com/cosmoLegend/Leetcoding/tree/master/3936-split-array-by-prime-indices) |
 ## Geometry
@@ -63,4 +65,12 @@ Problems that I solve on leetcode !!
 | ------- |
 | [0115-distinct-subsequences](https://github.com/cosmoLegend/Leetcoding/tree/master/0115-distinct-subsequences) |
 | [1170-shortest-common-supersequence](https://github.com/cosmoLegend/Leetcoding/tree/master/1170-shortest-common-supersequence) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/cosmoLegend/Leetcoding/tree/master/2324-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/cosmoLegend/Leetcoding/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->

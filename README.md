@@ -31,6 +31,7 @@ Problems that I solve on leetcode !!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/cosmoLegend/Leetcoding/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/cosmoLegend/Leetcoding/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/cosmoLegend/Leetcoding/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/cosmoLegend/Leetcoding/tree/master/0118-pascals-triangle) |
@@ -65,6 +66,7 @@ Problems that I solve on leetcode !!
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/cosmoLegend/Leetcoding/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/cosmoLegend/Leetcoding/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/cosmoLegend/Leetcoding/tree/master/0115-distinct-subsequences) |
 | [1170-shortest-common-supersequence](https://github.com/cosmoLegend/Leetcoding/tree/master/1170-shortest-common-supersequence) |
@@ -80,4 +82,12 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/cosmoLegend/Leetcoding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/cosmoLegend/Leetcoding/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/cosmoLegend/Leetcoding/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->

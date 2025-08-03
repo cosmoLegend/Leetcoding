@@ -24,7 +24,7 @@ public:
         else if(p[i] == '*')
         return dp[i][j] = solve (i - 1 , j , p , s , dp) bitor solve (i , j - 1 , p , s , dp) ;
 
-        return dp[i][j] = false ;
+        return false ;
 
     }
 

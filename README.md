@@ -20,6 +20,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/cosmoLegend/Leetcoding/tree/master/0940-fruit-into-baskets) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/cosmoLegend/Leetcoding/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3886-count-number-of-trapezoids-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3886-count-number-of-trapezoids-i) |
 ## Math
 |  |
@@ -76,6 +77,7 @@ Problems that I solve on leetcode !!
 | [0115-distinct-subsequences](https://github.com/cosmoLegend/Leetcoding/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 | [1170-shortest-common-supersequence](https://github.com/cosmoLegend/Leetcoding/tree/master/1170-shortest-common-supersequence) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/cosmoLegend/Leetcoding/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -110,4 +112,8 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/cosmoLegend/Leetcoding/tree/master/3791-fruits-into-baskets-iii) |
+## Counting
+|  |
+| ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/cosmoLegend/Leetcoding/tree/master/1890-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->

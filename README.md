@@ -39,6 +39,7 @@ Problems that I solve on leetcode !!
 | [0115-distinct-subsequences](https://github.com/cosmoLegend/Leetcoding/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/cosmoLegend/Leetcoding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0119-pascals-triangle-ii) |
+| [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cosmoLegend/Leetcoding/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/cosmoLegend/Leetcoding/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/cosmoLegend/Leetcoding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -53,6 +54,7 @@ Problems that I solve on leetcode !!
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 | [0937-online-stock-span](https://github.com/cosmoLegend/Leetcoding/tree/master/0937-online-stock-span) |
 ## Design
 |  |
@@ -72,6 +74,7 @@ Problems that I solve on leetcode !!
 | [0044-wildcard-matching](https://github.com/cosmoLegend/Leetcoding/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/cosmoLegend/Leetcoding/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/cosmoLegend/Leetcoding/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 | [1170-shortest-common-supersequence](https://github.com/cosmoLegend/Leetcoding/tree/master/1170-shortest-common-supersequence) |
 ## Simulation
 |  |
@@ -90,6 +93,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/cosmoLegend/Leetcoding/tree/master/0044-wildcard-matching) |
+| [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |

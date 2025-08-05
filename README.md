@@ -13,6 +13,7 @@ Problems that I solve on leetcode !!
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/cosmoLegend/Leetcoding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/cosmoLegend/Leetcoding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/cosmoLegend/Leetcoding/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3791-fruits-into-baskets-iii](https://github.com/cosmoLegend/Leetcoding/tree/master/3791-fruits-into-baskets-iii) |
 | [3886-count-number-of-trapezoids-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3886-count-number-of-trapezoids-i) |
 | [3936-split-array-by-prime-indices](https://github.com/cosmoLegend/Leetcoding/tree/master/3936-split-array-by-prime-indices) |
 ## Hash Table
@@ -84,6 +85,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/cosmoLegend/Leetcoding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [3791-fruits-into-baskets-iii](https://github.com/cosmoLegend/Leetcoding/tree/master/3791-fruits-into-baskets-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -96,4 +98,12 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/cosmoLegend/Leetcoding/tree/master/0940-fruit-into-baskets) |
+## Segment Tree
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/cosmoLegend/Leetcoding/tree/master/3791-fruits-into-baskets-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/cosmoLegend/Leetcoding/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->

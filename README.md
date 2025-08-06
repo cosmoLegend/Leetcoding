@@ -9,6 +9,7 @@ Problems that I solve on leetcode !!
 | [0001-two-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/cosmoLegend/Leetcoding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0119-pascals-triangle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmoLegend/Leetcoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cosmoLegend/Leetcoding/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/cosmoLegend/Leetcoding/tree/master/0940-fruit-into-baskets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/cosmoLegend/Leetcoding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -93,6 +94,7 @@ Problems that I solve on leetcode !!
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmoLegend/Leetcoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/cosmoLegend/Leetcoding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [3791-fruits-into-baskets-iii](https://github.com/cosmoLegend/Leetcoding/tree/master/3791-fruits-into-baskets-iii) |
 ## Greedy
@@ -133,4 +135,8 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/cosmoLegend/Leetcoding/tree/master/0451-sort-characters-by-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmoLegend/Leetcoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->

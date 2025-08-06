@@ -9,6 +9,7 @@ Problems that I solve on leetcode !!
 | [0001-two-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/cosmoLegend/Leetcoding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/cosmoLegend/Leetcoding/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmoLegend/Leetcoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cosmoLegend/Leetcoding/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/cosmoLegend/Leetcoding/tree/master/0940-fruit-into-baskets) |
@@ -101,6 +102,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/cosmoLegend/Leetcoding/tree/master/0044-wildcard-matching) |
+| [0135-candy](https://github.com/cosmoLegend/Leetcoding/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |

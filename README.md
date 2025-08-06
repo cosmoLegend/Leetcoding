@@ -7,6 +7,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/cosmoLegend/Leetcoding/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/cosmoLegend/Leetcoding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/cosmoLegend/Leetcoding/tree/master/0135-candy) |
@@ -41,6 +42,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/cosmoLegend/Leetcoding/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/cosmoLegend/Leetcoding/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/cosmoLegend/Leetcoding/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/cosmoLegend/Leetcoding/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/cosmoLegend/Leetcoding/tree/master/0118-pascals-triangle) |
@@ -102,6 +104,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/cosmoLegend/Leetcoding/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/cosmoLegend/Leetcoding/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/cosmoLegend/Leetcoding/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 ## Recursion

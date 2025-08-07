@@ -67,6 +67,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 | [0937-online-stock-span](https://github.com/cosmoLegend/Leetcoding/tree/master/0937-online-stock-span) |
@@ -156,15 +157,18 @@ Problems that I solve on leetcode !!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search

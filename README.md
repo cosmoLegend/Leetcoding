@@ -7,6 +7,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/cosmoLegend/Leetcoding/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/cosmoLegend/Leetcoding/tree/master/0118-pascals-triangle) |
@@ -42,6 +43,7 @@ Problems that I solve on leetcode !!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/cosmoLegend/Leetcoding/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/cosmoLegend/Leetcoding/tree/master/0055-jump-game) |
@@ -64,6 +66,7 @@ Problems that I solve on leetcode !!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 | [0937-online-stock-span](https://github.com/cosmoLegend/Leetcoding/tree/master/0937-online-stock-span) |
 ## Design
@@ -73,6 +76,7 @@ Problems that I solve on leetcode !!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0042-trapping-rain-water) |
 | [0937-online-stock-span](https://github.com/cosmoLegend/Leetcoding/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -146,5 +150,6 @@ Problems that I solve on leetcode !!
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmoLegend/Leetcoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->

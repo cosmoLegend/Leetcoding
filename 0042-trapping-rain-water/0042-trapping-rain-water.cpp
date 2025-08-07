@@ -6,19 +6,19 @@ public:
         int n = height.size() ;
         int maxHeight = 0 ;
 
-        vector<int>leftHeight(n) , rightHeight (n) ;
-        leftHeight[0] = height[0] , rightHeight[n - 1] = height[n - 1] ;
+        int l = 0 , r = n - 1 , leftMax = 0 , rightMax = 0;
 
-        for (int i = 1 ; i < n ; i ++){
-            leftHeight[i] = max (leftHeight[i - 1] , height[i]) ;
-        }
-
-        for (int i = n - 2 ; i >= 0 ; i --){
-            rightHeight[i] = max(rightHeight[i + 1] , height[i]) ;
-        }
-
-        for (int i = 0 ; i < n ; i ++){
-            totalWater += min(leftHeight[i] , rightHeight[i]) - height[i] ;
+        while (l <= r){
+            if (height[l] < height[r]){
+                leftMax = max(leftMax , height[l]) ;
+                totalWater += leftMax - height[l] ;
+                l ++ ;
+            }
+            else {
+                rightMax = max(rightMax , height[r]) ;
+                totalWater += rightMax - height[r];
+                r -- ;
+            }
         }
         
         return totalWater ;

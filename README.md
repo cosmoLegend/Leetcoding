@@ -13,6 +13,7 @@ Problems that I solve on leetcode !!
 | [0118-pascals-triangle](https://github.com/cosmoLegend/Leetcoding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/cosmoLegend/Leetcoding/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/cosmoLegend/Leetcoding/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmoLegend/Leetcoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cosmoLegend/Leetcoding/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/cosmoLegend/Leetcoding/tree/master/0940-fruit-into-baskets) |
@@ -26,6 +27,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/cosmoLegend/Leetcoding/tree/master/0139-word-break) |
 | [0451-sort-characters-by-frequency](https://github.com/cosmoLegend/Leetcoding/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/cosmoLegend/Leetcoding/tree/master/0940-fruit-into-baskets) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/cosmoLegend/Leetcoding/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -51,6 +53,7 @@ Problems that I solve on leetcode !!
 | [0115-distinct-subsequences](https://github.com/cosmoLegend/Leetcoding/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/cosmoLegend/Leetcoding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/cosmoLegend/Leetcoding/tree/master/0139-word-break) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cosmoLegend/Leetcoding/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/cosmoLegend/Leetcoding/tree/master/1170-shortest-common-supersequence) |
@@ -90,6 +93,7 @@ Problems that I solve on leetcode !!
 | [0044-wildcard-matching](https://github.com/cosmoLegend/Leetcoding/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/cosmoLegend/Leetcoding/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/cosmoLegend/Leetcoding/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/cosmoLegend/Leetcoding/tree/master/0139-word-break) |
 | [0451-sort-characters-by-frequency](https://github.com/cosmoLegend/Leetcoding/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 | [1170-shortest-common-supersequence](https://github.com/cosmoLegend/Leetcoding/tree/master/1170-shortest-common-supersequence) |
@@ -179,4 +183,12 @@ Problems that I solve on leetcode !!
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/0104-maximum-depth-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/cosmoLegend/Leetcoding/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/cosmoLegend/Leetcoding/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

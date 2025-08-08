@@ -26,7 +26,7 @@ public:
         int maxi = INT_MIN ;
         int height = fxn(root , maxi) ;
 
-        return max(maxi , height) ;
+        return maxi ;
         
     }
 };

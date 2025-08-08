@@ -35,6 +35,7 @@ Problems that I solve on leetcode !!
 ## Math
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/cosmoLegend/Leetcoding/tree/master/0826-soup-servings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/cosmoLegend/Leetcoding/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3886-count-number-of-trapezoids-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3886-count-number-of-trapezoids-i) |
 | [3936-split-array-by-prime-indices](https://github.com/cosmoLegend/Leetcoding/tree/master/3936-split-array-by-prime-indices) |
@@ -56,6 +57,7 @@ Problems that I solve on leetcode !!
 | [0124-binary-tree-maximum-path-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/cosmoLegend/Leetcoding/tree/master/0139-word-break) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
+| [0826-soup-servings](https://github.com/cosmoLegend/Leetcoding/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cosmoLegend/Leetcoding/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/cosmoLegend/Leetcoding/tree/master/1170-shortest-common-supersequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/cosmoLegend/Leetcoding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -202,4 +204,8 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/cosmoLegend/Leetcoding/tree/master/0139-word-break) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/cosmoLegend/Leetcoding/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->

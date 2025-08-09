@@ -18,7 +18,7 @@ public:
         queue<TreeNode*> q ;
 
         q.push(root) ;
-        int flag = true ;
+        bool flag = true ;
 
         while (!q.empty()){
             int qlevel = q.size();

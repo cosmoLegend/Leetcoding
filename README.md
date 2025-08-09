@@ -33,6 +33,7 @@ Problems that I solve on leetcode !!
 | [0139-word-break](https://github.com/cosmoLegend/Leetcoding/tree/master/0139-word-break) |
 | [0451-sort-characters-by-frequency](https://github.com/cosmoLegend/Leetcoding/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/cosmoLegend/Leetcoding/tree/master/0940-fruit-into-baskets) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/cosmoLegend/Leetcoding/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3886-count-number-of-trapezoids-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3886-count-number-of-trapezoids-i) |
 ## Math
@@ -155,6 +156,7 @@ Problems that I solve on leetcode !!
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/cosmoLegend/Leetcoding/tree/master/0451-sort-characters-by-frequency) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Problems that I solve on leetcode !!
 | [0124-binary-tree-maximum-path-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -189,6 +192,7 @@ Problems that I solve on leetcode !!
 | [0124-binary-tree-maximum-path-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -200,6 +204,7 @@ Problems that I solve on leetcode !!
 | [0124-binary-tree-maximum-path-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -207,6 +212,7 @@ Problems that I solve on leetcode !!
 | [0102-binary-tree-level-order-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Trie
 |  |
 | ------- |

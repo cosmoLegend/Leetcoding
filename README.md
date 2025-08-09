@@ -10,6 +10,7 @@ Problems that I solve on leetcode !!
 | [0042-trapping-rain-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/cosmoLegend/Leetcoding/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/cosmoLegend/Leetcoding/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/cosmoLegend/Leetcoding/tree/master/0135-candy) |
@@ -112,6 +113,7 @@ Problems that I solve on leetcode !!
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmoLegend/Leetcoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/cosmoLegend/Leetcoding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [3791-fruits-into-baskets-iii](https://github.com/cosmoLegend/Leetcoding/tree/master/3791-fruits-into-baskets-iii) |
@@ -211,4 +213,8 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/cosmoLegend/Leetcoding/tree/master/0826-soup-servings) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

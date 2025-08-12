@@ -18,7 +18,7 @@ public:
             
         }
 
-        return dp[idx][ans] = res % modi  ;
+        return dp[idx][ans] = res % modi ;
 
     }
 

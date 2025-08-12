@@ -1,9 +1,8 @@
 class Solution {
 public:
-    int modi ; 
+    const int modi = 1e9 + 7 ; 
 
     int solve(int n , int x , int idx , int ans , vector<vector<int>>&dp) {
-        modi = 1e9 + 7 ;
         if (ans > n) return 0 ;
         if (ans == n) return 1 ;
 
@@ -23,9 +22,8 @@ public:
     }
 
     int numberOfWays(int n, int x) {
-        modi = 1e9 + 7 ;
         int ans = 0 ;
-        vector<vector<int>>dp (301 , vector<int>(301 , -1)) ;
+        vector<vector<int>>dp (n + 1 , vector<int>(n + 1 , -1)) ;
         ans = solve (n , x , 1 , 0 , dp) ;
         return ans % modi ;
     }

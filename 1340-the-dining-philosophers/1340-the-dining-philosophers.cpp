@@ -47,9 +47,11 @@ public:
                     function<void()> putLeftFork,
                     function<void()> putRightFork) {
 
+                        {
                         lock_guard<mutex>lock(m) ;
                         fork[(philosopher + 1) % 5].wait() ;
                         fork[philosopher].wait() ;
+                        }
 
                         pickLeftFork() ;
                         pickRightFork() ;

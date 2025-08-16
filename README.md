@@ -289,4 +289,5 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [1316-fizz-buzz-multithreaded](https://github.com/cosmoLegend/Leetcoding/tree/master/1316-fizz-buzz-multithreaded) |
+| [1340-the-dining-philosophers](https://github.com/cosmoLegend/Leetcoding/tree/master/1340-the-dining-philosophers) |
 <!---LeetCode Topics End-->

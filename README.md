@@ -110,6 +110,7 @@ Problems that I solve on leetcode !!
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 | [1170-shortest-common-supersequence](https://github.com/cosmoLegend/Leetcoding/tree/master/1170-shortest-common-supersequence) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/cosmoLegend/Leetcoding/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/cosmoLegend/Leetcoding/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Simulation
 |  |
 | ------- |

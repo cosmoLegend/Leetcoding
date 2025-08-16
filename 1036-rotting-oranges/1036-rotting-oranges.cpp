@@ -32,7 +32,7 @@ public:
         int delrow[] = {1 , 0 , - 1 , 0} ;
         int delcol[] = {0 , 1 , 0 , -1} ;
 
-        int count = 0 ;
+        //int count = 0 ;
 
         while (!q.empty()) {
             int row = q.front().first.first ;
@@ -48,12 +48,12 @@ public:
                 if (nrow >= 0 && nrow < m && ncol >= 0 && ncol < n && grid[nrow][ncol] == 1 && vis[nrow][ncol] != 2){
                     vis[nrow][ncol] = 2 ;
                     q.push({{nrow , ncol} , time + 1}) ;
-                    count ++ ;
+                    freshCount -- ;
                 }
             }
         }
 
-        if (count != freshCount) return -1 ;     
+        if (freshCount) return -1 ;     
 
         return minTime ; 
     }

@@ -21,6 +21,7 @@ Problems that I solve on leetcode !!
 | [0875-longest-mountain-in-array](https://github.com/cosmoLegend/Leetcoding/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cosmoLegend/Leetcoding/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/cosmoLegend/Leetcoding/tree/master/0940-fruit-into-baskets) |
+| [1036-rotting-oranges](https://github.com/cosmoLegend/Leetcoding/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/cosmoLegend/Leetcoding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/cosmoLegend/Leetcoding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/cosmoLegend/Leetcoding/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -228,6 +229,7 @@ Problems that I solve on leetcode !!
 | [0199-binary-tree-right-side-view](https://github.com/cosmoLegend/Leetcoding/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/cosmoLegend/Leetcoding/tree/master/0547-number-of-provinces) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/cosmoLegend/Leetcoding/tree/master/1036-rotting-oranges) |
 ## Trie
 |  |
 | ------- |
@@ -246,6 +248,7 @@ Problems that I solve on leetcode !!
 | [0074-search-a-2d-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1036-rotting-oranges](https://github.com/cosmoLegend/Leetcoding/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |

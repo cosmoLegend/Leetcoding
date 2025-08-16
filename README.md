@@ -285,4 +285,8 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/cosmoLegend/Leetcoding/tree/master/0547-number-of-provinces) |
+## Concurrency
+|  |
+| ------- |
+| [1316-fizz-buzz-multithreaded](https://github.com/cosmoLegend/Leetcoding/tree/master/1316-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->

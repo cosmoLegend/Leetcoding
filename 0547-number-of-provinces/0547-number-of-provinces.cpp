@@ -9,9 +9,9 @@ public:
             q.pop() ;
             for (auto &it : adj[node]){
                 if (!vis[it])
-                q.push(it) ;
+                vis[it] = 1 , q.push(it) ;
             }
-            vis[node] = 1 ;
+            
         }
     }
 

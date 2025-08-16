@@ -1,16 +1,19 @@
+#include <semaphore>
+#include <vector>
+#include <memory>
+using namespace std;
 
 class DiningPhilosophers {
-    binary_semaphore fork[5] { 
-        binary_semaphore(1),
-        binary_semaphore(1),
-        binary_semaphore(1),
-        binary_semaphore(1),
-        binary_semaphore(1)
-    };
-
-    mutex m; // to avoid deadlock
+    vector<unique_ptr<binary_semaphore>> fork;
+    mutex m;
 
 public:
+    DiningPhilosophers() {
+        for (int i = 0; i < 5; i++) {
+            fork.push_back(make_unique<binary_semaphore>(1));
+        }
+    }
+
     void wantsToEat(int philosopher,
                     function<void()> pickLeftFork,
                     function<void()> pickRightFork,
@@ -20,8 +23,8 @@ public:
     {
         {
             lock_guard<mutex> lock(m);
-            fork[(philosopher + 1) % 5].acquire(); // right fork
-            fork[philosopher].acquire();           // left fork
+            fork[(philosopher + 1) % 5]->acquire();
+            fork[philosopher]->acquire();
         }
 
         pickLeftFork();
@@ -30,9 +33,9 @@ public:
         eat();
 
         putLeftFork();
-        fork[(philosopher + 1) % 5].release();
+        fork[(philosopher + 1) % 5]->release();
 
         putRightFork();
-        fork[philosopher].release();
+        fork[philosopher]->release();
     }
 };

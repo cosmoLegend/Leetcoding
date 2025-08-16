@@ -20,6 +20,7 @@ Problems that I solve on leetcode !!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/cosmoLegend/Leetcoding/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/cosmoLegend/Leetcoding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/cosmoLegend/Leetcoding/tree/master/0733-flood-fill) |
 | [0875-longest-mountain-in-array](https://github.com/cosmoLegend/Leetcoding/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cosmoLegend/Leetcoding/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -211,6 +212,7 @@ Problems that I solve on leetcode !!
 | [0419-battleships-in-a-board](https://github.com/cosmoLegend/Leetcoding/tree/master/0419-battleships-in-a-board) |
 | [0543-diameter-of-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/cosmoLegend/Leetcoding/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/cosmoLegend/Leetcoding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/cosmoLegend/Leetcoding/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -236,6 +238,7 @@ Problems that I solve on leetcode !!
 | [0199-binary-tree-right-side-view](https://github.com/cosmoLegend/Leetcoding/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/cosmoLegend/Leetcoding/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/cosmoLegend/Leetcoding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/cosmoLegend/Leetcoding/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/cosmoLegend/Leetcoding/tree/master/1036-rotting-oranges) |
@@ -260,6 +263,7 @@ Problems that I solve on leetcode !!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/cosmoLegend/Leetcoding/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/cosmoLegend/Leetcoding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/cosmoLegend/Leetcoding/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/cosmoLegend/Leetcoding/tree/master/1036-rotting-oranges) |
 | [1876-map-of-highest-peak](https://github.com/cosmoLegend/Leetcoding/tree/master/1876-map-of-highest-peak) |
@@ -276,6 +280,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/cosmoLegend/Leetcoding/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/cosmoLegend/Leetcoding/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |

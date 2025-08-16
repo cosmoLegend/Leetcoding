@@ -203,6 +203,7 @@ Problems that I solve on leetcode !!
 | [0144-binary-tree-preorder-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/cosmoLegend/Leetcoding/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/cosmoLegend/Leetcoding/tree/master/0547-number-of-provinces) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -225,6 +226,7 @@ Problems that I solve on leetcode !!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/cosmoLegend/Leetcoding/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/cosmoLegend/Leetcoding/tree/master/0547-number-of-provinces) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Trie
 |  |
@@ -253,4 +255,12 @@ Problems that I solve on leetcode !!
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/cosmoLegend/Leetcoding/tree/master/0875-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/cosmoLegend/Leetcoding/tree/master/0900-reordered-power-of-2) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/cosmoLegend/Leetcoding/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/cosmoLegend/Leetcoding/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

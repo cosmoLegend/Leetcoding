@@ -19,6 +19,7 @@ Problems that I solve on leetcode !!
 | [0240-search-a-2d-matrix-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/cosmoLegend/Leetcoding/tree/master/0419-battleships-in-a-board) |
+| [0542-01-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/cosmoLegend/Leetcoding/tree/master/0733-flood-fill) |
 | [0875-longest-mountain-in-array](https://github.com/cosmoLegend/Leetcoding/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cosmoLegend/Leetcoding/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -66,6 +67,7 @@ Problems that I solve on leetcode !!
 | [0119-pascals-triangle-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/cosmoLegend/Leetcoding/tree/master/0139-word-break) |
+| [0542-01-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 | [0826-soup-servings](https://github.com/cosmoLegend/Leetcoding/tree/master/0826-soup-servings) |
 | [0875-longest-mountain-in-array](https://github.com/cosmoLegend/Leetcoding/tree/master/0875-longest-mountain-in-array) |
@@ -231,6 +233,7 @@ Problems that I solve on leetcode !!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/cosmoLegend/Leetcoding/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/cosmoLegend/Leetcoding/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/cosmoLegend/Leetcoding/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -254,6 +257,7 @@ Problems that I solve on leetcode !!
 | [0240-search-a-2d-matrix-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/cosmoLegend/Leetcoding/tree/master/0419-battleships-in-a-board) |
+| [0542-01-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/cosmoLegend/Leetcoding/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/cosmoLegend/Leetcoding/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer

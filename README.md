@@ -53,6 +53,7 @@ Problems that I solve on leetcode !!
 ## Math
 |  |
 | ------- |
+| [0650-2-keys-keyboard](https://github.com/cosmoLegend/Leetcoding/tree/master/0650-2-keys-keyboard) |
 | [0826-soup-servings](https://github.com/cosmoLegend/Leetcoding/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/cosmoLegend/Leetcoding/tree/master/0900-reordered-power-of-2) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/cosmoLegend/Leetcoding/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -78,6 +79,7 @@ Problems that I solve on leetcode !!
 | [0221-maximal-square](https://github.com/cosmoLegend/Leetcoding/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0542-01-matrix) |
+| [0650-2-keys-keyboard](https://github.com/cosmoLegend/Leetcoding/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 | [0826-soup-servings](https://github.com/cosmoLegend/Leetcoding/tree/master/0826-soup-servings) |
 | [0875-longest-mountain-in-array](https://github.com/cosmoLegend/Leetcoding/tree/master/0875-longest-mountain-in-array) |

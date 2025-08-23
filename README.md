@@ -19,6 +19,7 @@ Problems that I solve on leetcode !!
 | [0221-maximal-square](https://github.com/cosmoLegend/Leetcoding/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0410-split-array-largest-sum) |
 | [0419-battleships-in-a-board](https://github.com/cosmoLegend/Leetcoding/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/cosmoLegend/Leetcoding/tree/master/0695-max-area-of-island) |
@@ -73,6 +74,7 @@ Problems that I solve on leetcode !!
 | [0124-binary-tree-maximum-path-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/cosmoLegend/Leetcoding/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/cosmoLegend/Leetcoding/tree/master/0221-maximal-square) |
+| [0410-split-array-largest-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 | [0826-soup-servings](https://github.com/cosmoLegend/Leetcoding/tree/master/0826-soup-servings) |
@@ -139,6 +141,7 @@ Problems that I solve on leetcode !!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmoLegend/Leetcoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0410-split-array-largest-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/cosmoLegend/Leetcoding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [3791-fruits-into-baskets-iii](https://github.com/cosmoLegend/Leetcoding/tree/master/3791-fruits-into-baskets-iii) |
 ## Greedy
@@ -148,6 +151,7 @@ Problems that I solve on leetcode !!
 | [0045-jump-game-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/cosmoLegend/Leetcoding/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/cosmoLegend/Leetcoding/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
@@ -299,4 +303,8 @@ Problems that I solve on leetcode !!
 | ------- |
 | [1316-fizz-buzz-multithreaded](https://github.com/cosmoLegend/Leetcoding/tree/master/1316-fizz-buzz-multithreaded) |
 | [1340-the-dining-philosophers](https://github.com/cosmoLegend/Leetcoding/tree/master/1340-the-dining-philosophers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->

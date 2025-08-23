@@ -33,6 +33,7 @@ Problems that I solve on leetcode !!
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/cosmoLegend/Leetcoding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/cosmoLegend/Leetcoding/tree/master/1876-map-of-highest-peak) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/cosmoLegend/Leetcoding/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3791-fruits-into-baskets-iii](https://github.com/cosmoLegend/Leetcoding/tree/master/3791-fruits-into-baskets-iii) |
 | [3886-count-number-of-trapezoids-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3886-count-number-of-trapezoids-i) |
 | [3936-split-array-by-prime-indices](https://github.com/cosmoLegend/Leetcoding/tree/master/3936-split-array-by-prime-indices) |
@@ -280,6 +281,7 @@ Problems that I solve on leetcode !!
 | [1036-rotting-oranges](https://github.com/cosmoLegend/Leetcoding/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/cosmoLegend/Leetcoding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/cosmoLegend/Leetcoding/tree/master/1876-map-of-highest-peak) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Divide and Conquer
 |  |
 | ------- |

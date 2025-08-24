@@ -100,6 +100,7 @@ Problems that I solve on leetcode !!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/cosmoLegend/Leetcoding/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/cosmoLegend/Leetcoding/tree/master/0144-binary-tree-preorder-traversal) |
@@ -123,6 +124,7 @@ Problems that I solve on leetcode !!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/cosmoLegend/Leetcoding/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/cosmoLegend/Leetcoding/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/cosmoLegend/Leetcoding/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/cosmoLegend/Leetcoding/tree/master/0115-distinct-subsequences) |

@@ -18,12 +18,13 @@ public:
 
         int groups = n / k ;
 
-        for (int i = 0 ; i < freqMap.size() ; i--){
+        for (int i = 0 ; i < freqMap.size() ; i++){
             if (freqMap[i].first > groups) return false ;
             else n -= freqMap[i].first ;
         }
 
-        return true ;
+        if (n == 0) return true ;
+        return false ;
 
     }
 };

@@ -1,12 +1,11 @@
 class Solution {
 public:
     int minSensors(int n, int m, int k) {
+        int s = 2 * k + 1;  // coverage side length
 
-        double total = 0 ;
+        int rows = (n + s - 1) / s;  // ceil(n/s)
+        int cols = (m + s - 1) / s;  // ceil(m/s)
 
-        total = ceil((double)n / (2*k + 1)) * ceil ((double)m / (2*k + 1)) ;
-
-        return static_cast<int>(total) ;
-        
+        return rows * cols;
     }
 };

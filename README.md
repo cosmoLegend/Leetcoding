@@ -22,6 +22,7 @@ Problems that I solve on leetcode !!
 | [0410-split-array-largest-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0410-split-array-largest-sum) |
 | [0419-battleships-in-a-board](https://github.com/cosmoLegend/Leetcoding/tree/master/0419-battleships-in-a-board) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/cosmoLegend/Leetcoding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0498-diagonal-traverse](https://github.com/cosmoLegend/Leetcoding/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/cosmoLegend/Leetcoding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/cosmoLegend/Leetcoding/tree/master/0733-flood-fill) |
@@ -140,6 +141,7 @@ Problems that I solve on leetcode !!
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/cosmoLegend/Leetcoding/tree/master/0498-diagonal-traverse) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/cosmoLegend/Leetcoding/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Combinatorics
@@ -288,6 +290,7 @@ Problems that I solve on leetcode !!
 | [0240-search-a-2d-matrix-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/cosmoLegend/Leetcoding/tree/master/0419-battleships-in-a-board) |
+| [0498-diagonal-traverse](https://github.com/cosmoLegend/Leetcoding/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/cosmoLegend/Leetcoding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/cosmoLegend/Leetcoding/tree/master/0733-flood-fill) |

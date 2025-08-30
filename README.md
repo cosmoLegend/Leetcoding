@@ -39,6 +39,7 @@ Problems that I solve on leetcode !!
 | [3791-fruits-into-baskets-iii](https://github.com/cosmoLegend/Leetcoding/tree/master/3791-fruits-into-baskets-iii) |
 | [3886-count-number-of-trapezoids-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3886-count-number-of-trapezoids-i) |
 | [3936-split-array-by-prime-indices](https://github.com/cosmoLegend/Leetcoding/tree/master/3936-split-array-by-prime-indices) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/cosmoLegend/Leetcoding/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -298,6 +300,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0240-search-a-2d-matrix-ii) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Enumeration
 |  |
 | ------- |

@@ -4,8 +4,8 @@ public:
         int MOD = 1e9 + 7 ;
 
         int n = nums.size() ;
-        int q = queries.size() ;
-        int m = queries[0].size() ;
+       // int q = queries.size() ;
+       //int m = queries[0].size() ;
 
         for (auto &q : queries){
             int l = q[0] ;
@@ -17,8 +17,6 @@ public:
                 nums[l] = (1ll * nums[l] * v) % MOD ;
                 l += k ;
             }
-
-
 
         }
 

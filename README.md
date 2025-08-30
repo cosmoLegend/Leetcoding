@@ -7,6 +7,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/cosmoLegend/Leetcoding/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/cosmoLegend/Leetcoding/tree/master/0055-jump-game) |
@@ -45,6 +46,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/cosmoLegend/Leetcoding/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/cosmoLegend/Leetcoding/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/cosmoLegend/Leetcoding/tree/master/0139-word-break) |
 | [0451-sort-characters-by-frequency](https://github.com/cosmoLegend/Leetcoding/tree/master/0451-sort-characters-by-frequency) |
@@ -285,6 +287,7 @@ Problems that I solve on leetcode !!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/cosmoLegend/Leetcoding/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/cosmoLegend/Leetcoding/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0240-search-a-2d-matrix-ii) |

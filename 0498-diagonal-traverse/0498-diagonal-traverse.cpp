@@ -4,57 +4,33 @@ public:
 
         int m = mat.size() ;
         int n = mat[0].size() ;
-        vector<int> ans ;
+        vector<int> ans(m * n) ;
 
-        int i = 0 , j = 0 ;
-        int dir = 0 ;
+        int row = 0 , col = 0 ;
 
-        // while (i >= 0 && i < m && j >= 0 && j < n){
-        //     if (dir == 1){
-        //     ans.push_back(mat[i][j]) ;
-        //     i -- , j ++ ;
-        //     if (i < 0) i = 0 , dir = 0 ;
-        //     } 
+        for (int i = 0 ; i < m * n ; i++){
+            ans[i] = mat[row][col] ;
 
-        //     else if (dir == 0){
-
-        //     }
-        // }
-
-
-        while (j < n){
-            vector<int> temp ;
-            for (int it = j , ix = 0 ; it >= 0 && ix < m ; it-- , ix++){
-                temp.push_back(mat[ix][it]) ;
+            if ((row + col) % 2 == 0){
+                if (col == n - 1) row ++ ;
+                else if (row == 0) col ++ ;
+                else {
+                    row -- ;
+                    col ++ ;
+                }
             }
-            if (dir == 1) ans.insert(ans.end() , temp.begin() , temp.end()) , dir = 0 ;
+
             else {
-                reverse(temp.begin() , temp.end()) ;
-                ans.insert(ans.end() ,temp.begin() , temp.end()) ;
-                dir = 1 ;
+                if(row == m - 1) col ++ ;
+                else if (col == 0) row ++ ;
+                else {
+                    row ++ ;
+                    col -- ;
+                }
             }
-            j ++ ;
-           
         }
-
-        i = 1 ;
-
-        while (i < m){
-            vector<int> temp ;
-
-            for (int it = i , iy = n - 1 ; it < m && iy >= 0 ; it ++ , iy --){
-                temp.push_back(mat[it][iy]) ;
-            }
-            if (dir == 1) ans.insert(ans.end() , temp.begin() , temp.end()) , dir = 0 ;
-            else {
-                reverse(temp.begin() , temp.end()) ;
-                ans.insert(ans.end() ,temp.begin() , temp.end()) ;
-                dir = 1 ;
-            }
-            i ++ ;
-
-        }
-
+       
+   
 
         return ans ;
 

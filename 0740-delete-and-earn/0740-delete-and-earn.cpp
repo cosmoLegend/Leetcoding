@@ -1,48 +1,34 @@
 class Solution {
 public:
-    unordered_map<int,int> mpp;   // value -> count
-    vector<int> uniq;             // sorted unique values
-    vector<array<int,2>> dp;      // dp[idx][available]
-    int n;
+    int solve(int idx, vector<int>& vals, unordered_map<int,int>& freq, vector<int>& dp) {
+        if (idx >= vals.size()) return 0;
+        if (dp[idx] != -1) return dp[idx];
 
-    int solve(int idx, int available){
-        if (idx >= n) return 0;
-        if (dp[idx][available] != -1) return dp[idx][available];
-
-        if (!available) {
-            // current value was blocked by previous choice -> skip it
-            return dp[idx][available] = solve(idx + 1, 1);
+        // Take current
+        int take = vals[idx] * freq[vals[idx]];
+        int nextIdx = idx + 1;
+        if (nextIdx < vals.size() && vals[nextIdx] == vals[idx] + 1) {
+            take += solve(idx + 2, vals, freq, dp); // skip neighbor
+        } else {
+            take += solve(idx + 1, vals, freq, dp);
         }
 
-        int val = uniq[idx];
+        // Not take
+        int notTake = solve(idx + 1, vals, freq, dp);
 
-        // option 1: skip current
-        int skip = solve(idx + 1, 1);
-
-        // option 2: take current => earn val * count[val]
-        long long gain = 1LL * val * mpp[val]; // use long long to be safe
-        int nextAvailable = 1;
-        if (idx + 1 < n && uniq[idx + 1] == val + 1) nextAvailable = 0; // neighbor blocked
-
-        int take = gain + solve(idx + 1, nextAvailable);
-
-        return dp[idx][available] = max(skip, take);
+        return dp[idx] = max(take, notTake);
     }
 
     int deleteAndEarn(vector<int>& nums) {
-        if (nums.empty()) return 0;
-        sort(nums.begin(), nums.end());
-        for (int x : nums) mpp[x]++;
+        unordered_map<int,int> freq;
+        for (int x : nums) freq[x]++;
 
-        // build sorted unique list
-        uniq.clear();
-        uniq.push_back(nums[0]);
-        for (int i = 1; i < nums.size(); ++i)
-            if (nums[i] != uniq.back()) uniq.push_back(nums[i]);
+        // unique sorted values
+        vector<int> vals;
+        for (auto &p : freq) vals.push_back(p.first);
+        sort(vals.begin(), vals.end());
 
-        n = uniq.size();
-        dp.assign(n, { -1, -1 });
-
-        return solve(0, 1); // start at idx 0, available = true
+        vector<int> dp(vals.size(), -1);
+        return solve(0, vals, freq, dp);
     }
 };

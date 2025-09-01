@@ -27,6 +27,7 @@ Problems that I solve on leetcode !!
 | [0542-01-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/cosmoLegend/Leetcoding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/cosmoLegend/Leetcoding/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/cosmoLegend/Leetcoding/tree/master/0740-delete-and-earn) |
 | [0875-longest-mountain-in-array](https://github.com/cosmoLegend/Leetcoding/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cosmoLegend/Leetcoding/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/cosmoLegend/Leetcoding/tree/master/0940-fruit-into-baskets) |
@@ -51,6 +52,7 @@ Problems that I solve on leetcode !!
 | [0127-word-ladder](https://github.com/cosmoLegend/Leetcoding/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/cosmoLegend/Leetcoding/tree/master/0139-word-break) |
 | [0451-sort-characters-by-frequency](https://github.com/cosmoLegend/Leetcoding/tree/master/0451-sort-characters-by-frequency) |
+| [0740-delete-and-earn](https://github.com/cosmoLegend/Leetcoding/tree/master/0740-delete-and-earn) |
 | [0900-reordered-power-of-2](https://github.com/cosmoLegend/Leetcoding/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/cosmoLegend/Leetcoding/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -88,6 +90,7 @@ Problems that I solve on leetcode !!
 | [0542-01-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/cosmoLegend/Leetcoding/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
+| [0740-delete-and-earn](https://github.com/cosmoLegend/Leetcoding/tree/master/0740-delete-and-earn) |
 | [0826-soup-servings](https://github.com/cosmoLegend/Leetcoding/tree/master/0826-soup-servings) |
 | [0875-longest-mountain-in-array](https://github.com/cosmoLegend/Leetcoding/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cosmoLegend/Leetcoding/tree/master/0934-bitwise-ors-of-subarrays) |

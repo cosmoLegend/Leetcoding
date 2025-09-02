@@ -9,7 +9,7 @@ public:
             while (!st.empty() && st.top() > 0 && asteroids[i] < 0){
                 if (abs(asteroids[i]) > abs(st.top())){
                     st.pop() ;
-                    
+                    continue ;                 
                 }
                 else if (abs(asteroids[i]) == abs(st.top())){
                     st.pop() ;
@@ -21,7 +21,7 @@ public:
 
                     flag = false ;   
                     break ;
-                    
+
                 }          
                
             }

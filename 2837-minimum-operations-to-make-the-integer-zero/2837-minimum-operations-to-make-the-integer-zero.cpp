@@ -27,7 +27,7 @@ public:
             powers[i] = 2LL * powers[i - 1];
         }
 
-        for (int num = 1; num <= 1000; num++) { 
+        for (int num = 1; num <= 60; num++) { 
             if (check(num, num1, num2, powers)) return num;
         }
 

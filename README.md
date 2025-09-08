@@ -38,6 +38,7 @@ Problems that I solve on leetcode !!
 | [1628-count-submatrices-with-all-ones](https://github.com/cosmoLegend/Leetcoding/tree/master/1628-count-submatrices-with-all-ones) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/cosmoLegend/Leetcoding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/cosmoLegend/Leetcoding/tree/master/1876-map-of-highest-peak) |
+| [1917-maximum-average-pass-ratio](https://github.com/cosmoLegend/Leetcoding/tree/master/1917-maximum-average-pass-ratio) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/cosmoLegend/Leetcoding/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/cosmoLegend/Leetcoding/tree/master/3748-sort-matrix-by-diagonals) |
@@ -179,6 +180,7 @@ Problems that I solve on leetcode !!
 | [0410-split-array-largest-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/cosmoLegend/Leetcoding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/cosmoLegend/Leetcoding/tree/master/1917-maximum-average-pass-ratio) |
 ## Recursion
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Problems that I solve on leetcode !!
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/cosmoLegend/Leetcoding/tree/master/0451-sort-characters-by-frequency) |
+| [1917-maximum-average-pass-ratio](https://github.com/cosmoLegend/Leetcoding/tree/master/1917-maximum-average-pass-ratio) |
 ## Bucket Sort
 |  |
 | ------- |

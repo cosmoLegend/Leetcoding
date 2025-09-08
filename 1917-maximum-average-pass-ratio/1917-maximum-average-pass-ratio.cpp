@@ -22,7 +22,7 @@ public:
         double sum = 0 ;
 
         for (auto &c : classes){
-            sum += (double) c[0] / c[1] ;
+            sum += 1.0 * c[0] / c[1] ;
         }
 
 

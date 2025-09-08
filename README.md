@@ -105,6 +105,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cosmoLegend/Leetcoding/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/cosmoLegend/Leetcoding/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Number Theory
 |  |
 | ------- |
@@ -328,6 +329,7 @@ Problems that I solve on leetcode !!
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/cosmoLegend/Leetcoding/tree/master/0875-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/cosmoLegend/Leetcoding/tree/master/0900-reordered-power-of-2) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/cosmoLegend/Leetcoding/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Union Find
 |  |
 | ------- |
@@ -350,4 +352,8 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/cosmoLegend/Leetcoding/tree/master/0143-reorder-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/cosmoLegend/Leetcoding/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->

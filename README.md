@@ -100,11 +100,13 @@ Problems that I solve on leetcode !!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/cosmoLegend/Leetcoding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/cosmoLegend/Leetcoding/tree/master/1628-count-submatrices-with-all-ones) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/cosmoLegend/Leetcoding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/cosmoLegend/Leetcoding/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/cosmoLegend/Leetcoding/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cosmoLegend/Leetcoding/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/cosmoLegend/Leetcoding/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/cosmoLegend/Leetcoding/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Number Theory
 |  |
@@ -182,6 +184,7 @@ Problems that I solve on leetcode !!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/cosmoLegend/Leetcoding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/cosmoLegend/Leetcoding/tree/master/1917-maximum-average-pass-ratio) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/cosmoLegend/Leetcoding/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Recursion
 |  |
 | ------- |

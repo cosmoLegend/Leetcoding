@@ -100,6 +100,7 @@ Problems that I solve on leetcode !!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/cosmoLegend/Leetcoding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/cosmoLegend/Leetcoding/tree/master/1628-count-submatrices-with-all-ones) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/cosmoLegend/Leetcoding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/cosmoLegend/Leetcoding/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/cosmoLegend/Leetcoding/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/cosmoLegend/Leetcoding/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Bit Manipulation
@@ -158,6 +159,7 @@ Problems that I solve on leetcode !!
 | [0498-diagonal-traverse](https://github.com/cosmoLegend/Leetcoding/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/cosmoLegend/Leetcoding/tree/master/0735-asteroid-collision) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/cosmoLegend/Leetcoding/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/cosmoLegend/Leetcoding/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Combinatorics
 |  |
@@ -359,4 +361,8 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/cosmoLegend/Leetcoding/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/cosmoLegend/Leetcoding/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->

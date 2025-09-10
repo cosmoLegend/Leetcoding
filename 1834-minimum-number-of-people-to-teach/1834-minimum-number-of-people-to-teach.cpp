@@ -1,41 +1,33 @@
 class Solution {
 public:
-    int minimumTeachings(int n, vector<vector<int>>& languages, vector<vector<int>>& friendships) {
-        unordered_set<int> badPeople;
+    static int minimumTeachings(int n, vector<vector<int>>& languages, vector<vector<int>>& friendships) {
+        int m=languages.size(); // number of people
+
+        //known languages for each person
+        vector<bitset<501>> know(m);
+        for (int i=0; i<m; i++) 
+            for (int l : languages[i]) know[i][l]=1;
         
-        // step 1: collect people in bad friendships
-        for (auto &f : friendships) {
-            int u = f[0]-1, v = f[1]-1;
-            unordered_set<int> s(languages[u].begin(), languages[u].end());
-            bool ok = false;
-            for (int lang : languages[v]) {
-                if (s.count(lang)) { ok = true; break; }
-            }
-            if (!ok) {
-                badPeople.insert(u);
-                badPeople.insert(v);
-            }
-        }
-        
-        if (badPeople.empty()) return 0; // everyone already ok
-        
-        // step 2: for each language, count coverage
-        vector<int> cnt(n+1, 0);
-        int ans = 0 ;
-        for (int person : badPeople) {
-            for (int lang : languages[person]) {
-                cnt[lang]++;
-                ans = max (ans , cnt[lang]) ;
-            }
+        // people need be taught
+        bitset<501> need=0;
+        for (auto& f : friendships) {
+            int a=f[0]-1, b=f[1]-1;
+            if ((know[a] & know[b]).any()) continue; // can talk
+            need[a]=need[b]=1;
         }
 
-        
-        // // step 3: minimize teachings
-         int total = badPeople.size();
-        // int ans = INT_MAX;
-        // for (int lang = 1; lang <= n; lang++) {
-        //     ans = min(ans, total - cnt[lang]);
-        // }
-        return total - ans;
+        // if no need
+        if (need.count()==0) return 0;
+
+        int ans=INT_MAX;
+        for (int lang=1; lang<=n; lang++) { // languages for 1..n
+            int cnt=0;
+            for (int i=0; i<m; i++) {
+                if (need[i] & !know[i][lang]) cnt++;
+            }
+            ans=min(ans, cnt);
+        }
+
+        return ans;
     }
 };

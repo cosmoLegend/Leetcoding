@@ -36,6 +36,7 @@ Problems that I solve on leetcode !!
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/cosmoLegend/Leetcoding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/cosmoLegend/Leetcoding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/cosmoLegend/Leetcoding/tree/master/1628-count-submatrices-with-all-ones) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/cosmoLegend/Leetcoding/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/cosmoLegend/Leetcoding/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/cosmoLegend/Leetcoding/tree/master/1876-map-of-highest-peak) |
 | [1917-maximum-average-pass-ratio](https://github.com/cosmoLegend/Leetcoding/tree/master/1917-maximum-average-pass-ratio) |
@@ -58,6 +59,7 @@ Problems that I solve on leetcode !!
 | [0900-reordered-power-of-2](https://github.com/cosmoLegend/Leetcoding/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/cosmoLegend/Leetcoding/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/cosmoLegend/Leetcoding/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/cosmoLegend/Leetcoding/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3886-count-number-of-trapezoids-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3886-count-number-of-trapezoids-i) |
 ## Math
@@ -185,6 +187,7 @@ Problems that I solve on leetcode !!
 | [0410-split-array-largest-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/cosmoLegend/Leetcoding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/cosmoLegend/Leetcoding/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/cosmoLegend/Leetcoding/tree/master/1917-maximum-average-pass-ratio) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/cosmoLegend/Leetcoding/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Recursion

@@ -129,6 +129,7 @@ Problems that I solve on leetcode !!
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/cosmoLegend/Leetcoding/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/cosmoLegend/Leetcoding/tree/master/0937-online-stock-span) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/cosmoLegend/Leetcoding/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/cosmoLegend/Leetcoding/tree/master/1628-count-submatrices-with-all-ones) |
 ## Design
 |  |
@@ -140,6 +141,7 @@ Problems that I solve on leetcode !!
 | [0042-trapping-rain-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/cosmoLegend/Leetcoding/tree/master/0316-remove-duplicate-letters) |
 | [0937-online-stock-span](https://github.com/cosmoLegend/Leetcoding/tree/master/0937-online-stock-span) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/cosmoLegend/Leetcoding/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/cosmoLegend/Leetcoding/tree/master/1628-count-submatrices-with-all-ones) |
 ## Data Stream
 |  |
@@ -157,6 +159,7 @@ Problems that I solve on leetcode !!
 | [0316-remove-duplicate-letters](https://github.com/cosmoLegend/Leetcoding/tree/master/0316-remove-duplicate-letters) |
 | [0451-sort-characters-by-frequency](https://github.com/cosmoLegend/Leetcoding/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/cosmoLegend/Leetcoding/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1170-shortest-common-supersequence](https://github.com/cosmoLegend/Leetcoding/tree/master/1170-shortest-common-supersequence) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/cosmoLegend/Leetcoding/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/cosmoLegend/Leetcoding/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -193,6 +196,7 @@ Problems that I solve on leetcode !!
 | [0410-split-array-largest-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/cosmoLegend/Leetcoding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/cosmoLegend/Leetcoding/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/cosmoLegend/Leetcoding/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/cosmoLegend/Leetcoding/tree/master/1917-maximum-average-pass-ratio) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/cosmoLegend/Leetcoding/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |

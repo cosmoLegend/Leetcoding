@@ -8,6 +8,7 @@ Problems that I solve on leetcode !!
 | ------- |
 | [0001-two-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/cosmoLegend/Leetcoding/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/cosmoLegend/Leetcoding/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/cosmoLegend/Leetcoding/tree/master/0055-jump-game) |
@@ -53,6 +54,7 @@ Problems that I solve on leetcode !!
 | ------- |
 | [0001-two-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/cosmoLegend/Leetcoding/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/cosmoLegend/Leetcoding/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/cosmoLegend/Leetcoding/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/cosmoLegend/Leetcoding/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/cosmoLegend/Leetcoding/tree/master/0139-word-break) |

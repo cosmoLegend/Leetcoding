@@ -235,6 +235,7 @@ Problems that I solve on leetcode !!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/cosmoLegend/Leetcoding/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/cosmoLegend/Leetcoding/tree/master/0451-sort-characters-by-frequency) |
 | [1917-maximum-average-pass-ratio](https://github.com/cosmoLegend/Leetcoding/tree/master/1917-maximum-average-pass-ratio) |
@@ -341,6 +342,7 @@ Problems that I solve on leetcode !!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/cosmoLegend/Leetcoding/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0240-search-a-2d-matrix-ii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Enumeration
@@ -370,6 +372,7 @@ Problems that I solve on leetcode !!
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/cosmoLegend/Leetcoding/tree/master/0023-merge-k-sorted-lists) |
 | [0143-reorder-list](https://github.com/cosmoLegend/Leetcoding/tree/master/0143-reorder-list) |
 ## Brainteaser
 |  |
@@ -379,4 +382,8 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/cosmoLegend/Leetcoding/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/cosmoLegend/Leetcoding/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

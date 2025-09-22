@@ -70,6 +70,7 @@ Problems that I solve on leetcode !!
 ## Math
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/cosmoLegend/Leetcoding/tree/master/0556-next-greater-element-iii) |
 | [0650-2-keys-keyboard](https://github.com/cosmoLegend/Leetcoding/tree/master/0650-2-keys-keyboard) |
 | [0826-soup-servings](https://github.com/cosmoLegend/Leetcoding/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/cosmoLegend/Leetcoding/tree/master/0900-reordered-power-of-2) |
@@ -162,6 +163,7 @@ Problems that I solve on leetcode !!
 | [0139-word-break](https://github.com/cosmoLegend/Leetcoding/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/cosmoLegend/Leetcoding/tree/master/0316-remove-duplicate-letters) |
 | [0451-sort-characters-by-frequency](https://github.com/cosmoLegend/Leetcoding/tree/master/0451-sort-characters-by-frequency) |
+| [0556-next-greater-element-iii](https://github.com/cosmoLegend/Leetcoding/tree/master/0556-next-greater-element-iii) |
 | [0678-valid-parenthesis-string](https://github.com/cosmoLegend/Leetcoding/tree/master/0678-valid-parenthesis-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/cosmoLegend/Leetcoding/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1170-shortest-common-supersequence](https://github.com/cosmoLegend/Leetcoding/tree/master/1170-shortest-common-supersequence) |
@@ -255,6 +257,7 @@ Problems that I solve on leetcode !!
 | [0143-reorder-list](https://github.com/cosmoLegend/Leetcoding/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmoLegend/Leetcoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/cosmoLegend/Leetcoding/tree/master/0287-find-the-duplicate-number) |
+| [0556-next-greater-element-iii](https://github.com/cosmoLegend/Leetcoding/tree/master/0556-next-greater-element-iii) |
 | [0875-longest-mountain-in-array](https://github.com/cosmoLegend/Leetcoding/tree/master/0875-longest-mountain-in-array) |
 ## Tree
 |  |

@@ -66,6 +66,7 @@ Problems that I solve on leetcode !!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/cosmoLegend/Leetcoding/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/cosmoLegend/Leetcoding/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/cosmoLegend/Leetcoding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3886-count-number-of-trapezoids-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3886-count-number-of-trapezoids-i) |
 ## Math
 |  |
@@ -272,6 +273,7 @@ Problems that I solve on leetcode !!
 | [0199-binary-tree-right-side-view](https://github.com/cosmoLegend/Leetcoding/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/cosmoLegend/Leetcoding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -287,6 +289,7 @@ Problems that I solve on leetcode !!
 | [0695-max-area-of-island](https://github.com/cosmoLegend/Leetcoding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/cosmoLegend/Leetcoding/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/cosmoLegend/Leetcoding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -300,6 +303,7 @@ Problems that I solve on leetcode !!
 | [0199-binary-tree-right-side-view](https://github.com/cosmoLegend/Leetcoding/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/cosmoLegend/Leetcoding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -316,6 +320,7 @@ Problems that I solve on leetcode !!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/cosmoLegend/Leetcoding/tree/master/1036-rotting-oranges) |
 | [1876-map-of-highest-peak](https://github.com/cosmoLegend/Leetcoding/tree/master/1876-map-of-highest-peak) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/cosmoLegend/Leetcoding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Trie
 |  |
 | ------- |

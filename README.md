@@ -234,6 +234,7 @@ Problems that I solve on leetcode !!
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/cosmoLegend/Leetcoding/tree/master/0148-sort-list) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/cosmoLegend/Leetcoding/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/cosmoLegend/Leetcoding/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -256,6 +257,7 @@ Problems that I solve on leetcode !!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/cosmoLegend/Leetcoding/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/cosmoLegend/Leetcoding/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmoLegend/Leetcoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/cosmoLegend/Leetcoding/tree/master/0287-find-the-duplicate-number) |
 | [0556-next-greater-element-iii](https://github.com/cosmoLegend/Leetcoding/tree/master/0556-next-greater-element-iii) |
@@ -357,6 +359,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/cosmoLegend/Leetcoding/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/cosmoLegend/Leetcoding/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0240-search-a-2d-matrix-ii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Enumeration
@@ -388,6 +391,7 @@ Problems that I solve on leetcode !!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/cosmoLegend/Leetcoding/tree/master/0023-merge-k-sorted-lists) |
 | [0143-reorder-list](https://github.com/cosmoLegend/Leetcoding/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/cosmoLegend/Leetcoding/tree/master/0148-sort-list) |
 ## Brainteaser
 |  |
 | ------- |
@@ -400,4 +404,5 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/cosmoLegend/Leetcoding/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/cosmoLegend/Leetcoding/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

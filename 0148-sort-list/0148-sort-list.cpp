@@ -32,7 +32,7 @@ public:
         int i = 1 ;
         while (i < n){
             temp -> next = new ListNode(ls[i]) ;
-            if(temp-> next) temp = temp -> next ;
+            temp = temp -> next ;
             i++ ;
         }
         return root ;

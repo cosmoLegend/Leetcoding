@@ -1,37 +1,36 @@
 class Solution {
 public:
     string majorityFrequencyGroup(string s) {
-        int n = s.size() ;
+        vector<int> freq(26, 0);
+        for (char c : s)
+            freq[c - 'a']++;
 
-        vector<int>v(26 , 0) ;
+        
+        unordered_map<int, int> countMap;
 
-        for (int i = 0 ; i < n ; i++){
-            v[s[i] - 'a'] ++ ;
-        }
+        int chosenFreq = -1; 
+        int maxSize = 0;    
 
-        vector<vector<int>>grpsz(101) ;
+        for (int f : freq) {
+            if (f == 0)
+                continue;
 
-        for (int i = 0 ; i < 26 ; i++){
-            grpsz[v[i]].push_back(i) ;
-        }
+            int newCount = ++countMap[f];
 
-        int maxGrpsz = 0 , store = -1 ;
-
-        for (int i = 1 ; i < 101 ; i++){
-            if(grpsz[i].size() >= maxGrpsz){
-                maxGrpsz = grpsz[i].size() ;
-                store = i ; 
+            
+            if (newCount > maxSize || (newCount == maxSize && f > chosenFreq)) {
+                maxSize = newCount;
+                chosenFreq = f;
             }
         }
 
-        string res = "" ;
-
-        for(int j = 0 ; j < maxGrpsz ; j++){
-            res += grpsz[store][j] + 'a' ;
+        // Collect all letters having the chosen frequency
+        string res;
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] == chosenFreq)
+                res.push_back('a' + i);
         }
 
-        return res ;
-
-        
+        return res;
     }
 };

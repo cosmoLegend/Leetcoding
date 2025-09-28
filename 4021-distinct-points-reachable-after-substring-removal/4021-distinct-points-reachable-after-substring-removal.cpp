@@ -40,7 +40,7 @@ public:
         st.insert({xc , yc}) ;
        
 
-        while(r < n){
+        while(r + 1 < n){
             
            if(res.size() == k){
                 if(s[l] == 'L') xc -- ;
@@ -52,16 +52,15 @@ public:
            }
 
            r ++ ;
-           if(r < n){
+           
 
-                if(s[l] == 'L') xc ++ ;
-                else if(s[l] == 'R') xc -- ;
-                else if (s[l] == 'U') yc -- ;
+                if(s[r] == 'L') xc ++ ;
+                else if(s[r] == 'R') xc -- ;
+                else if (s[r] == 'U') yc -- ;
                 else yc ++ ;
 
                 st.insert({xc , yc}) ;
                 
-           }
 
         
         }

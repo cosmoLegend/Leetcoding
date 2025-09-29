@@ -56,6 +56,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/cosmoLegend/Leetcoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/cosmoLegend/Leetcoding/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/cosmoLegend/Leetcoding/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/cosmoLegend/Leetcoding/tree/master/0073-set-matrix-zeroes) |
@@ -159,6 +160,7 @@ Problems that I solve on leetcode !!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/cosmoLegend/Leetcoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/cosmoLegend/Leetcoding/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/cosmoLegend/Leetcoding/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/cosmoLegend/Leetcoding/tree/master/0072-edit-distance) |
@@ -222,6 +224,7 @@ Problems that I solve on leetcode !!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/cosmoLegend/Leetcoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/cosmoLegend/Leetcoding/tree/master/0940-fruit-into-baskets) |
 ## Segment Tree
 |  |

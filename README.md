@@ -64,6 +64,7 @@ Problems that I solve on leetcode !!
 | [0073-set-matrix-zeroes](https://github.com/cosmoLegend/Leetcoding/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/cosmoLegend/Leetcoding/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/cosmoLegend/Leetcoding/tree/master/0139-word-break) |
+| [0142-linked-list-cycle-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0142-linked-list-cycle-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/cosmoLegend/Leetcoding/tree/master/0451-sort-characters-by-frequency) |
 | [0740-delete-and-earn](https://github.com/cosmoLegend/Leetcoding/tree/master/0740-delete-and-earn) |
 | [0900-reordered-power-of-2](https://github.com/cosmoLegend/Leetcoding/tree/master/0900-reordered-power-of-2) |
@@ -269,6 +270,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0042-trapping-rain-water) |
+| [0142-linked-list-cycle-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/cosmoLegend/Leetcoding/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/cosmoLegend/Leetcoding/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cosmoLegend/Leetcoding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -408,6 +410,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/cosmoLegend/Leetcoding/tree/master/0023-merge-k-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/cosmoLegend/Leetcoding/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/cosmoLegend/Leetcoding/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/cosmoLegend/Leetcoding/tree/master/0148-sort-list) |
 ## Brainteaser

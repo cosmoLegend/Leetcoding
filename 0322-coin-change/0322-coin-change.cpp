@@ -9,8 +9,8 @@ public:
         for (int i = 0 ; i < v.size() ; i++){
             for (int j = 0 ; j < coins.size() ; j++){
                 if(i < coins[j]) continue ;
-                if(v[i - coins[j]] != INT_MAX)
-                v[i] = min(v[i] , 1 +  v[i - coins[j]]) ;
+                
+                v[i] = min((long)v[i] , (long)1 +  v[i - coins[j]]) ;
             }
         }
 

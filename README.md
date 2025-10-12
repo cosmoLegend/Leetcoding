@@ -48,6 +48,7 @@ Problems that I solve on leetcode !!
 | [1876-map-of-highest-peak](https://github.com/cosmoLegend/Leetcoding/tree/master/1876-map-of-highest-peak) |
 | [1917-maximum-average-pass-ratio](https://github.com/cosmoLegend/Leetcoding/tree/master/1917-maximum-average-pass-ratio) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/cosmoLegend/Leetcoding/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/cosmoLegend/Leetcoding/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/cosmoLegend/Leetcoding/tree/master/3748-sort-matrix-by-diagonals) |
 | [3791-fruits-into-baskets-iii](https://github.com/cosmoLegend/Leetcoding/tree/master/3791-fruits-into-baskets-iii) |
@@ -409,6 +410,7 @@ Problems that I solve on leetcode !!
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0410-split-array-largest-sum) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/cosmoLegend/Leetcoding/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Linked List
 |  |
 | ------- |

@@ -1,44 +1,64 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
-    int swimInWater(vector<vector<int>>& grid) {
 
-        int n = grid.size() ;
+    int n; // to store grid size
 
-        vector<vector<bool>>vis(n , vector<bool> (n , false)) ;
+    bool canReach(vector<vector<int>>& grid, int time) {
 
-        priority_queue<vector<int> , vector<vector<int>> , greater<>>pq ;
-        int maxTime = 0 ; 
+        if (grid[0][0] > time) return false;
 
-        pq.push({grid[0][0] , 0  , 0}) ;
-        vis[0][0] = 1 ;
+        vector<vector<bool>> vis(n, vector<bool>(n, false));
+        queue<pair<int, int>> q;
 
-        while (!pq.empty()){
-            int maxDepth = pq.top()[0] ;
-            int row = pq.top()[1] ;
-            int col = pq.top()[2] ; 
+        q.push({0, 0});
+        vis[0][0] = 1;
 
-            if(row == n - 1 && col == n - 1) return maxDepth ; 
+        vector<int> delrc = {1, 0, -1, 0, 1};
 
-            pq.pop() ;
-            vector<int> delrc = {1 , 0 , -1 , 0 , 1} ;
+        while (!q.empty()) {
+            int row = q.front().first;
+            int col = q.front().second;
+            q.pop();
 
+            if (row == n - 1 && col == n - 1) return true;
 
-            for (int i = 0 ; i < delrc.size() - 1 ; i++){
-                int nr = row + delrc[i] ;
-                int nc = col + delrc[i + 1] ;
+            for (int i = 0; i < 4; i++) {
+                int nr = row + delrc[i];
+                int nc = col + delrc[i + 1];
 
-                if(nr >= 0 && nr < n && nc >= 0 && nc < n && vis[nr][nc] == 0){
-                    pq.push({max(grid[nr][nc] , maxDepth) , nr , nc}) ;
-                    vis[nr][nc] = 1 ;
+                if (nr >= 0 && nr < n && nc >= 0 && nc < n && !vis[nr][nc] && grid[nr][nc] <= time) {
+                    vis[nr][nc] = 1;
+                    q.push({nr, nc});
                 }
             }
-
-            maxTime = max (maxDepth , maxTime) ; 
-
         }
 
+        return false;
+    }
 
-        return -1 ; 
-        
+    int swimInWater(vector<vector<int>>& grid) {
+
+        n = grid.size();
+
+        int lo = grid[0][0];
+        int hi = 0;
+
+        for (auto &row : grid)
+            for (auto cell : row)
+                hi = max(hi, cell);
+
+        while (lo < hi) {
+            int mid = lo + (hi - lo) / 2;
+
+            if (canReach(grid, mid))
+                hi = mid;
+            else
+                lo = mid + 1;
+        }
+
+        return lo;
     }
 };

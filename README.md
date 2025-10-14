@@ -35,6 +35,7 @@ Problems that I solve on leetcode !!
 | [0733-flood-fill](https://github.com/cosmoLegend/Leetcoding/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/cosmoLegend/Leetcoding/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/cosmoLegend/Leetcoding/tree/master/0740-delete-and-earn) |
+| [0794-swim-in-rising-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0794-swim-in-rising-water) |
 | [0875-longest-mountain-in-array](https://github.com/cosmoLegend/Leetcoding/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/cosmoLegend/Leetcoding/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/cosmoLegend/Leetcoding/tree/master/0940-fruit-into-baskets) |
@@ -204,6 +205,7 @@ Problems that I solve on leetcode !!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/cosmoLegend/Leetcoding/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/cosmoLegend/Leetcoding/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0794-swim-in-rising-water) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/cosmoLegend/Leetcoding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [3791-fruits-into-baskets-iii](https://github.com/cosmoLegend/Leetcoding/tree/master/3791-fruits-into-baskets-iii) |
 ## Greedy
@@ -264,6 +266,7 @@ Problems that I solve on leetcode !!
 | [0023-merge-k-sorted-lists](https://github.com/cosmoLegend/Leetcoding/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/cosmoLegend/Leetcoding/tree/master/0451-sort-characters-by-frequency) |
+| [0794-swim-in-rising-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/cosmoLegend/Leetcoding/tree/master/1917-maximum-average-pass-ratio) |
 ## Bucket Sort
 |  |
@@ -309,6 +312,7 @@ Problems that I solve on leetcode !!
 | [0547-number-of-provinces](https://github.com/cosmoLegend/Leetcoding/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/cosmoLegend/Leetcoding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/cosmoLegend/Leetcoding/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0794-swim-in-rising-water) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/cosmoLegend/Leetcoding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/cosmoLegend/Leetcoding/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -340,6 +344,7 @@ Problems that I solve on leetcode !!
 | [0547-number-of-provinces](https://github.com/cosmoLegend/Leetcoding/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/cosmoLegend/Leetcoding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/cosmoLegend/Leetcoding/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0794-swim-in-rising-water) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/cosmoLegend/Leetcoding/tree/master/1036-rotting-oranges) |
 | [1876-map-of-highest-peak](https://github.com/cosmoLegend/Leetcoding/tree/master/1876-map-of-highest-peak) |
@@ -371,6 +376,7 @@ Problems that I solve on leetcode !!
 | [0542-01-matrix](https://github.com/cosmoLegend/Leetcoding/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/cosmoLegend/Leetcoding/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/cosmoLegend/Leetcoding/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/cosmoLegend/Leetcoding/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/cosmoLegend/Leetcoding/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/cosmoLegend/Leetcoding/tree/master/1628-count-submatrices-with-all-ones) |
@@ -396,6 +402,7 @@ Problems that I solve on leetcode !!
 | ------- |
 | [0547-number-of-provinces](https://github.com/cosmoLegend/Leetcoding/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/cosmoLegend/Leetcoding/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0794-swim-in-rising-water) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/cosmoLegend/Leetcoding/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Graph
 |  |

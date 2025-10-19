@@ -1,53 +1,32 @@
 class Solution {
 public:
-    int id(char c) { return c - 'a'; }
-
-    bool possible(int take, string &s, int k, vector<int> &tot) {
-        int n = s.size();
-        int keep = n - take;
-        if (keep < 0) return false;
-        
-        if (keep == 0) { // remove all characters
-            return (tot[0] >= k && tot[1] >= k && tot[2] >= k);
-        }
-
-        int win[3] = {0, 0, 0};
-        // initial window [0 .. keep-1]
-        for (int i = 0; i < keep; i++) win[id(s[i])]++;
-
-        if (tot[0] - win[0] >= k && tot[1] - win[1] >= k && tot[2] - win[2] >= k)
-            return true;
-
-        // slide window
-        for (int r = keep; r < n; r++) {
-            int l = r - keep;
-            win[id(s[l])]--;
-            win[id(s[r])]++;
-            if (tot[0] - win[0] >= k && tot[1] - win[1] >= k && tot[2] - win[2] >= k)
-                return true;
-        }
-        return false;
-    }
-
     int takeCharacters(string s, int k) {
-        int n = s.size();
-        if (k == 0) return 0;
+        int n = s.size() ;
 
-        vector<int> tot(3, 0);
-        for (char c : s) tot[id(c)]++;
+        vector<int> total (3 , 0) ;
 
-        if (tot[0] < k || tot[1] < k || tot[2] < k) return -1;
+        for (int i = 0 ; i < n ; i++) total[s[i] - 'a'] ++ ;
 
-        int low = 0, high = n, ans = -1;
-        while (low <= high) {
-            int mid = (low + high) / 2;
-            if (possible(mid, s, k, tot)) {
-                ans = mid;
-                high = mid - 1;
-            } else {
-                low = mid + 1;
+        if (total[0] < k || total[1] < k || total[2] < k) return -1 ;
+
+        int win[3] = {0} ;
+
+        int r = 0 , l = 0 , maxLen = -1 ;
+
+        while (r < n){
+            win[s[r] - 'a'] ++ ;
+
+            while (total[s[r] - 'a'] - win[s[r] - 'a'] < k){
+                win[s[l] - 'a'] -- ;
+                l ++ ;
             }
+
+            maxLen = max (maxLen , r - l + 1) ;
+
+            r++ ;
         }
-        return ans;
+
+        return n - maxLen ;
+        
     }
 };

@@ -50,6 +50,7 @@ Problems that I solve on leetcode !!
 | [1876-map-of-highest-peak](https://github.com/cosmoLegend/Leetcoding/tree/master/1876-map-of-highest-peak) |
 | [1917-maximum-average-pass-ratio](https://github.com/cosmoLegend/Leetcoding/tree/master/1917-maximum-average-pass-ratio) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/cosmoLegend/Leetcoding/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2549-next-greater-element-iv](https://github.com/cosmoLegend/Leetcoding/tree/master/2549-next-greater-element-iv) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/cosmoLegend/Leetcoding/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/cosmoLegend/Leetcoding/tree/master/3748-sort-matrix-by-diagonals) |
@@ -151,6 +152,7 @@ Problems that I solve on leetcode !!
 | [0937-online-stock-span](https://github.com/cosmoLegend/Leetcoding/tree/master/0937-online-stock-span) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/cosmoLegend/Leetcoding/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/cosmoLegend/Leetcoding/tree/master/1628-count-submatrices-with-all-ones) |
+| [2549-next-greater-element-iv](https://github.com/cosmoLegend/Leetcoding/tree/master/2549-next-greater-element-iv) |
 ## Design
 |  |
 | ------- |
@@ -163,6 +165,7 @@ Problems that I solve on leetcode !!
 | [0937-online-stock-span](https://github.com/cosmoLegend/Leetcoding/tree/master/0937-online-stock-span) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/cosmoLegend/Leetcoding/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/cosmoLegend/Leetcoding/tree/master/1628-count-submatrices-with-all-ones) |
+| [2549-next-greater-element-iv](https://github.com/cosmoLegend/Leetcoding/tree/master/2549-next-greater-element-iv) |
 ## Data Stream
 |  |
 | ------- |
@@ -210,6 +213,7 @@ Problems that I solve on leetcode !!
 | [0611-valid-triangle-number](https://github.com/cosmoLegend/Leetcoding/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0794-swim-in-rising-water) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/cosmoLegend/Leetcoding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2549-next-greater-element-iv](https://github.com/cosmoLegend/Leetcoding/tree/master/2549-next-greater-element-iv) |
 | [3791-fruits-into-baskets-iii](https://github.com/cosmoLegend/Leetcoding/tree/master/3791-fruits-into-baskets-iii) |
 ## Greedy
 |  |
@@ -263,6 +267,7 @@ Problems that I solve on leetcode !!
 | [0611-valid-triangle-number](https://github.com/cosmoLegend/Leetcoding/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/cosmoLegend/Leetcoding/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cosmoLegend/Leetcoding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2549-next-greater-element-iv](https://github.com/cosmoLegend/Leetcoding/tree/master/2549-next-greater-element-iv) |
 | [3748-sort-matrix-by-diagonals](https://github.com/cosmoLegend/Leetcoding/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
@@ -273,6 +278,7 @@ Problems that I solve on leetcode !!
 | [0451-sort-characters-by-frequency](https://github.com/cosmoLegend/Leetcoding/tree/master/0451-sort-characters-by-frequency) |
 | [0794-swim-in-rising-water](https://github.com/cosmoLegend/Leetcoding/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/cosmoLegend/Leetcoding/tree/master/1917-maximum-average-pass-ratio) |
+| [2549-next-greater-element-iv](https://github.com/cosmoLegend/Leetcoding/tree/master/2549-next-greater-element-iv) |
 ## Bucket Sort
 |  |
 | ------- |

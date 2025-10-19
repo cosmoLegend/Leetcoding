@@ -77,6 +77,7 @@ Problems that I solve on leetcode !!
 | [1834-minimum-number-of-people-to-teach](https://github.com/cosmoLegend/Leetcoding/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/cosmoLegend/Leetcoding/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/cosmoLegend/Leetcoding/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/cosmoLegend/Leetcoding/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3886-count-number-of-trapezoids-i](https://github.com/cosmoLegend/Leetcoding/tree/master/3886-count-number-of-trapezoids-i) |
 ## Math
 |  |
@@ -184,6 +185,7 @@ Problems that I solve on leetcode !!
 | [1170-shortest-common-supersequence](https://github.com/cosmoLegend/Leetcoding/tree/master/1170-shortest-common-supersequence) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/cosmoLegend/Leetcoding/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/cosmoLegend/Leetcoding/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/cosmoLegend/Leetcoding/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Simulation
 |  |
 | ------- |
@@ -236,6 +238,7 @@ Problems that I solve on leetcode !!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cosmoLegend/Leetcoding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/cosmoLegend/Leetcoding/tree/master/0940-fruit-into-baskets) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/cosmoLegend/Leetcoding/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Segment Tree
 |  |
 | ------- |
